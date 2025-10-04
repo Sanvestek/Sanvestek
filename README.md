@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Sanvestek
-<script
-  src="https://app.contenseo.com/widget/H3Zz1mrl.js">
-</script>
+Hi, I’m @Sanvestek
+
+I develop personal and commercial concepts for utility applications of all kinds. Utilisng AI API intergations, local LLM models, and traditional fullstack development.
 
 
 <!---
